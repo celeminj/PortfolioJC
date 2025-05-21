@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jordi Celemin Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on [Proyecto 1](Linkdeproyecot)
+
+- 🌱 I’m currently learning **Algun frameworkds**
+
+- 👯 I’m looking to collaborate on **Proyecto 2**
+
+- 🤝 I’m looking for help with **Help**
+
+- 👨‍💻 All of my projects are available at [http://portafolio.celemin.me](http://portafolio.celemin.me)
+
+- 💬 Ask me about **React o gsap**
+
 - 📫 How to reach me **jordi.celemin@gmail.com**
+
+- 📄 Know about my experiences [yYy](yYy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
